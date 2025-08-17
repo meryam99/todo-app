@@ -1,10 +1,10 @@
 
-#ToDo App
+# ToDo App
 
 TodoApp is a simple yet powerful task management application built with React, TypeScript.
 It allows users to create, organize, and manage daily tasks with an intuitive interface.
 
-###🚀 Features:
+### 🚀 Features:
 ✨ Add new tasks with a title
 🖊️ Edit tasks directly in the list
 ✅ Mark tasks as completed
@@ -19,13 +19,13 @@ Completed
 
 Experience live: https://meryam99.github.io/todo-app/
 
-###🛠️ Tech Stack:
+### 🛠️ Tech Stack:
 React 18 – component-based UI
 TypeScript – static typing and safety
 SCSS – modular and maintainable styles (@use/@forward)
 Bulma – lightweight CSS framework
 
-###Getting started
+### Getting started
 
 Clone the repository:
 git clone https://github.com/your-username/todo-app.git
@@ -33,10 +33,10 @@ cd project-name
 
 Install dependencies:
 npm install
-# or
+### or
 yarn install
 
 Run the project locally:
 npm start
-# or
+### or
 yarn start
