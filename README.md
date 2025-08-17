@@ -29,7 +29,7 @@ Bulma – lightweight CSS framework
 
 Clone the repository:
 git clone https://github.com/your-username/todo-app.git
-cd project-name
+cd project-name  
 
 Install dependencies:
 npm install
